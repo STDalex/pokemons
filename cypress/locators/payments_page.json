@@ -1,0 +1,7 @@
+{
+	"payment_card_number_input": ".credit",
+	"payment_card_expiration_date_input": ".k_input_date",
+	"payment_card_security_code_input": ".k_input_ccv",
+	"payment_card_cardholder_name_input": ".k_input_name",
+	"buy_avatar_button": ".pay-btn"
+}

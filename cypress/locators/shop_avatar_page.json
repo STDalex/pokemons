@@ -1,0 +1,5 @@
+{
+	"avatars_list": ".shop__item.available",
+	"image_src": ".shop__img",
+	"shop_button": ".shop__button"
+}

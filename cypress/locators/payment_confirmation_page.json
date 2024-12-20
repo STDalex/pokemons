@@ -1,0 +1,4 @@
+{
+	"sms_code_input": "#cardnumber",
+	"payment_submit_button": ".payment__submit-button"
+}

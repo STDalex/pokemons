@@ -1,0 +1,4 @@
+{
+	"shop_link": "#root > div > main.content.container > section > div.trainer-item__content > div.content__inner > div.content__box.content__box-mobile > a:nth-child(5)",
+	"trainer_image": ".trainer-img"
+}

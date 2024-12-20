@@ -1,0 +1,5 @@
+{
+  "input_email": ".k_form_f_email", 
+  "input_password": ".k_form_f_pass",
+  "login_button": ".k_form_send_auth"
+}
